@@ -1,4 +1,4 @@
-# CLIENT WEB
+# WEB CLIENT
 This project aims to implement a web client that communicates with the server using the REST API.
 
 ## Program flow
