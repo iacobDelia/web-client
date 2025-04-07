@@ -30,7 +30,3 @@ The book id is read and checked to be correct, and a DELETE request is sent to t
 
 ### exit
 Stops the loop and exits the program.
-
-## Observations
-I used the code provided for the 9th laboratory for this project, and the nlohmann library to parse the json. 
-I noticed that sometimes, very very rarely fortunately, the checker either gives a no output response or crashes for a few tests, even when providing a new username. I have not been able to reproduce this issue, and hope that it doesn't prove a problem when grading the homework.
